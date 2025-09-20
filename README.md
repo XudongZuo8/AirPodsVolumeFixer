@@ -24,7 +24,6 @@
 
 ## 安装步骤
 
-````markdown
 ### 1. 安装 Hammerspoon
 
 从 [Hammerspoon 官网](https://www.hammerspoon.org/) 下载并安装 Hammerspoon。
